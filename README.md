@@ -1,3 +1,7 @@
+# General info
+
+> ### Simple application for seat reservation. Nothing easier you just have to create your uniqe  account and then choose train, carriage and at the end your dream seat.
+
 ----------
 
 # Getting started
@@ -8,11 +12,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
+    git clone git@github.com:KamilLetni/zadanie.git
 
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd zadanie
 
 Install all the dependencies using composer - https://getcomposer.org/
 
@@ -42,8 +46,8 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
-    cd laravel-realworld-example-app
+    git clone git@github.com:KamilLetni/zadanie.git
+    cd zadanie
     composer install
     cp .env.example .env
     php artisan key:generate
