@@ -22,6 +22,10 @@ Install all the dependencies using composer - https://getcomposer.org/
 
     composer install
 
+Download node.js and install npm - https://nodejs.org/en/
+
+    npm install
+
 Copy the example env file and make the required configuration changes in the .env file
 
     cp .env.example .env
